@@ -1,0 +1,29 @@
+{
+  "name": "sequelizeburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkeenan957/sequelizeBurger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkeenan957/sequelizeBurger/issues"
+  },
+  "homepage": "https://github.com/lkeenan957/sequelizeBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2",
+    "method-override": "^2.3.10",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.35.2"
+  }
+}

@@ -11,6 +11,12 @@ body {
   flex-direction: column;
   background-color: #edbe49;
 }
+.wrapper{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: yellow;
+}
 
 h1 {
 	text-align: center;
